@@ -42,10 +42,15 @@ Un juego clásico inspirado en *Frogger*, creado con Python y la biblioteca `tur
 
    turtle-crossing/
 │
+
 ├── main.py            # Archivo principal con el bucle del juego
+
 ├── player.py          # Clase Player (tortuga)
+
 ├── scoreboard.py      # Clase Scoreboard (nivel y Game Over)
+
 ├── car_manager.py     # Clases Car y CarManager (autos y su control)
+
 ├── README.md          # Este archivo
 
 🧠 Conceptos aplicados
