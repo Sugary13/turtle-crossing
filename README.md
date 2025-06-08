@@ -41,6 +41,7 @@ Un juego clásico inspirado en *Frogger*, creado con Python y la biblioteca `tur
    python main.py
 
    turtle-crossing/
+   
 │
 
 ├── main.py            # Archivo principal con el bucle del juego
